@@ -1,3 +1,5 @@
+[![Build C++](https://github.com/prasannarajezzzy/Roller/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prasannarajezzzy/Roller/actions/workflows/c-cpp.yml)
+
 # Roller
 
 This repository provides a program that rolls a game die, such as the
